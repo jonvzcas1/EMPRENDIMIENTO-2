@@ -1,0 +1,80 @@
+5820 Edición de programas de informática (software)	
+
+
+Esta clase incluye:
+
+La edición de programas informáticos comerciales (no personalizados):
+
+• Sistemas operativos.
+
+• Aplicaciones comerciales y otras aplicaciones.
+
+• Juegos informáticos para todas las plataformas.
+
+Esta clase excluye:
+
+• La reproducción de software o programas de informática. Se incluye en la clase 1820, «Producción de copias a partir de grabaciones originales».
+
+• La venta al por menor de programas de informática comerciales. Se incluye en la clase 4741, «Comercio al por menor de computadores, equipos periféricos, programas de informática y equipos de telecomunicaciones en establecimientos especializados».
+
+• La producción de software o programas de informática no asociados con edición. Se incluye en la clase 6201, «Actividades de desarrollo se sistemas informáticos (planificación, análisis, programación, pruebas)».
+
+• El suministro en línea de software, programas de informática (alojamiento de aplicaciones de servicio en línea y suministro de servicios de aplicación de software). Se incluye en la clase 6311, «Procesamiento de datos, alojamiento (hosting) y actividades relacionadas».
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+//////////////////////////////////////MI CATEGORIA////////////////////////////////////////////
+
+ 6201 Actividades de desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas)	
+
+
+Esta clase comprende el análisis, el diseño, la escritura, pruebas, modificación y suministro de asistencia en relación con programas informáticos.
+
+Esta clase incluye:
+
+
+
+• El análisis, diseño de la estructura, el contenido y/o escritura del código informático necesario para crear y poner en práctica programas de sistemas operativos, aplicaciones de programas informáticos (incluyendo actualizaciones y parches de corrección), también bases de datos.
+
+• El desarrollo de soluciones web (sitios y páginas web) y personalización de programas informáticos a clientes, es decir, modificar y configurar una aplicación existente a fin de que sea funcional con los sistemas de información de que dispone el cliente.
+
+Esta clase excluye:
+
+
+
+• La edición de paquetes de software o programas informáticos comerciales. Se incluye en la clase 5820, «Edición de programas de informática (software)».
+
+• La planificación y diseño de sistemas que integren el equipo de hardware, software y tecnologías de la comunicación, aunque el suministro del software se constituya como una parte integral del servicio. Se incluye en la clase 6202, «Actividades de consultoría de informática y actividades de administración de instalaciones informáticas».
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+//////////////////////////////////////ALTERNATIVA////////////////////////////////////////////
+
+6202 Actividades de consultoría informática y actividades de administración de instalaciones informáticas	
+
+
+
+
+Esta clase incluye:
+
+
+
+• La planificación y el diseño de los sistemas informáticos que integran el equipo (hardware), programas informáticos (software) y tecnologías de las comunicaciones (incluye redes de área local [LAN], red de área extensa [WAN], entre otras). Las unidades clasificadas en esta clase pueden proporcionar los componentes de soporte físico y lógico (como pueden ser el hardware y software) como parte de sus servicios integrados o estos componentes pueden ser proporcionados por terceras partes o vendedores. En muchos casos las unidades clasificadas en esta clase suelen instalar el sistema, capacitar y apoyar a los usuarios del sistema.
+
+• Los servicios de gerencia y operación en sitio, de sistemas informáticos y/o instalaciones informáticas de procesamiento de datos de los clientes, así como también servicios de soporte relacionados.
+
+• Los servicios de consultoría en el diseño de sistemas de administración de información y en equipos de informática.
+
+• Los servicios de consultoría para sistemas de ingeniería y fabricación asistida por computador.
+
+• El servicio de análisis de requerimientos para la instalación de equipos informáticos.
+
+Esta clase excluye:
+
+
+
+• La venta por separado de equipos o programas informáticos. Se incluye en la clase 4651, «Comercio al por mayor de computadores, equipo periférico y programas de informática» y en la clase 4741, «Comercio al por menor de computadores, equipos periféricos, programas de informática y equipos de telecomunicaciones en establecimientos especializados», según corresponda.
+
+• La instalación de computadores centrales y equipos similares. Se incluye en la clase 3320, «Instalación especializada de maquinaria y equipo industrial».
+
+• La instalación por separado (configuración) de los computadores personales e instalación por separado de software. Se incluye en la clase 6209, «Otras actividades de tecnologías de información y actividades de servicios informáticos».
+
